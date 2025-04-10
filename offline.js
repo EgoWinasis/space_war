@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1743818057,
+	"version": 1744300063,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -57,6 +57,9 @@
 		"images/sprite18-sheet0.png",
 		"images/sprite17-sheet0.png",
 		"images/intro-sheet0.png",
+		"images/sprite19-sheet0.png",
+		"images/sprite20-sheet0.png",
+		"images/sprite21-sheet0.png",
 		"media/lazer fire 1.m4a",
 		"media/lazer fire 1.ogg",
 		"media/explosion 1.m4a",
@@ -90,6 +93,7 @@
 		"media/game over ii.ogg",
 		"media/deathmatch (boss theme).ogg",
 		"media/n-dimensions-_main-theme_.ogg",
+		"media/win.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
